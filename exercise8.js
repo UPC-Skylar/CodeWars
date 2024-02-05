@@ -17,4 +17,4 @@ function humanReadable(seconds) {
   }`;
 }
 
-console.log(humanReadable(4200));
+console.log(humanReadable(0));
